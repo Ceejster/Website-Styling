@@ -1,0 +1,219 @@
+.gingerpallet {
+    text-align: center;
+    margin: 10px auto;
+    font-family: 'Oswald', sans-serif;
+}
+
+.darkestginger {
+    background-color: hsl(31, 77%, 29%);
+}
+
+.darkginger {
+    background-color: hsl(31, 77%, 39%);
+}
+
+.mediumginger {
+    background-color: hsl(31, 77%, 49%);
+}
+
+.lightginger {
+    background-color: hsl(31, 77%, 59%);
+}
+
+.lightestginger {
+    background-color: hsl(31, 57%, 69%);
+}
+
+.turqpallet {
+    text-align: center;
+    margin: 10px auto;
+    font-family: 'Oswald', sans-serif;
+}
+
+.darkestturq {
+    background-color: hsl(158, 64%, 31%);
+}
+
+.darkturq {
+    background-color: hsl(158, 64%, 41%);
+}
+
+.mediumturq {
+    background-color: hsl(158, 64%, 51%);
+}
+
+.lightturq {
+    background-color: hsl(158, 64%, 61%);
+}
+
+.lightestturq {
+    background-color: hsl(158, 64%, 71%);
+}
+
+#palletrow {
+    display: inline-block;
+    margin: 10px auto;
+    width: 18%;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#halfbox {
+    border-left: 1px solid rgb(55, 53, 53);
+    border-bottom: 1px solid rgb(55, 53, 53);
+    margin-right: 15px;
+    border-radius: 15px;
+    padding: 2px;
+    margin: 5px;
+    padding-left: 15px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.ftoprow {
+    display: inline-block;
+    width: 40%;    
+    padding-left: 15px;
+}
+
+.fbotrow {
+    display: inline-block;
+    width: 40%;
+    padding-left: 15px;
+}
+
+.fontbox {
+    display: block;
+}
+
+
+
+.tstoprow {
+    display: inline-block;
+    justify-content: center;
+    width: 30%;
+    padding: 15px;
+}
+
+.tsbotrow {
+    display: inline-block;
+    width: 32%;
+    justify-content: center;
+}
+
+.h1style {
+    font-size: 200px;
+    font-weight: 100;
+    font-family: 'Inconsolata', monospace;
+    padding: 0%;
+    margin: 0%;
+    display: inline-block;
+}
+.h2style {
+    font-size: 185px;
+    font-weight: 90;
+    font-family: 'Oswald', sans-serif;
+    padding: 0%;
+    margin: 0%;
+    display: inline-block;
+}
+.h3style {
+    font-size: 170px;
+    font-weight: 80;
+    font-family: 'Abril Fatface';
+    padding: 0%;
+    margin: 0%;
+    display: inline-block;
+}
+.h4style {
+    font-size: 155px;
+    font-weight: 70;
+    font-family: 'Inconsolata', monospace;
+    padding: 0%;
+    margin: 0%;
+    display: inline-block;
+}
+.h5style {
+    font-size: 140px;
+    font-weight: 60;
+    font-family: 'Oswald', sans-serif;
+    padding: 0%;
+    margin: 0%;
+    display: inline-block;
+}
+.h6style {
+    font-size: 125px;
+    font-weight: 50;
+    font-family: 'Abril Fatface';
+    padding: 0%;
+    margin: 0%;
+    display: inline-block;
+}
+
+.frightrow {
+    border-left: 1px solid rgb(55, 53, 53);
+}
+
+.f1title {
+    font-family: 'Abril Fatface';
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.ftoprow .f1fs1 {
+    font-family: 'Abril Fatface';
+    font-style: italic;
+    font-size: 15px;
+}
+.ftoprow .f1fs2 {
+    font-family: 'Abril Fatface';
+    font-size: 15px;
+}
+.ftoprow .f1fs3 {
+    font-family: 'Abril Fatface';
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.ftoprow .albert {
+    font-family: 'Abril Fatface';
+
+}
+
+
+.ftoprow .frightrow {
+    font-family: 'Inconsolata', monospace;
+    text-transform: uppercase;
+    font-size: 25px;
+}  
+.ftoprow .f2title {
+    font-family: 'Inconsolata', monospace;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.ftoprow .f2fs1 {
+    font-family: "Inconsolata", monospace;
+    font-style: italic;
+    font-size: 15px;
+}
+.ftoprow .f2fs2 {
+    font-family: "Inconsolata", monospace;
+    font-size: 15px;
+}
+.ftoprow .f2fs3 {
+    font-family: "Inconsolata", monospace;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.fbotrow {
+    font-family: 'Oswald', sans-serif;
+}
+
+
+#frightrow {
+    font-family: 'Permanent Marker', cursive;
+    border-left: 1px solid rgb(55, 53, 53);
+}
